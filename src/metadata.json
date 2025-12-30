@@ -1,6 +1,6 @@
 {
-  "name": "Test of EagleEye Cyber Technologies (Keep this version)",
-  "description": "Enterprise-grade cybersecurity website with a modern, futuristic design, featuring high-impact visuals, advanced services architecture, and a functional careers portal.",
+  "name": "EagleEye Cyber Technologies",
+  "description": "Enterprise-grade cybersecurity website.",
   "requestFramePermissions": [
     "camera",
     "microphone"
