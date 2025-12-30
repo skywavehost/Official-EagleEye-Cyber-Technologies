@@ -1,11 +1,37 @@
-<div align="center">
+# EagleEye Cyber Technologies
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Enterprise-grade cybersecurity website built with React, TypeScript, and Vite.
 
-  <h1>Built with AI Studio</h2>
+## TARGET TREE
+/
+  package.json
+  vite.config.ts
+  tsconfig.json
+  index.html
+  src/
+    main.tsx
+    App.tsx
+    constants.tsx
+    types.ts
+    metadata.json
+    components/
+      Navbar.tsx
+      Footer.tsx
+      ScannerAnimation.tsx
+    pages/
+      Home.tsx
+      Services.tsx
+      Industries.tsx
+      Resources.tsx
+      About.tsx
+      Careers.tsx
+      Contact.tsx
+  netlify.toml
+  vercel.json
 
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+## BUILD CHECK
+- Build command: `npm run build`
+- Output directory: `dist`
+- Node version: `20.x`+
+- Vercel settings: Vite framework preset, `npm run build`, `dist` output.
+- Netlify settings: `npm run build`, `dist` publish directory.
