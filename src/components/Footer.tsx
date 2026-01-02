@@ -90,7 +90,7 @@ const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
 
         <div className="flex flex-col md:flex-row justify-between items-center pt-10 border-t border-white/5 gap-6">
           <p className="text-gray-600 text-xs font-medium">
-            © 2024 EagleEye Cyber Technologies. All Rights Reserved.
+            © 2026 EagleEye Cyber Technologies, LLC. All Rights Reserved.
           </p>
           <div className="flex gap-6 text-gray-600 text-xs uppercase font-semibold">
             <span className="hover:text-white cursor-pointer transition-colors">Privacy Policy</span>
